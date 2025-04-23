@@ -8,4 +8,4 @@ workflows:
   test_orb_workflow:
     jobs:
       - vuln-scan/scan-job:
-          deployment_url: "https://your-app.com"
+          ZT_TOKEN: "https://your-app.com"
