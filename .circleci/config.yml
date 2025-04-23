@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  vuln-scan: zt-cci-orb/zt-cci-orb@0.0.2
+  vuln-scan: zt-cci-orb/zt-cci-orb@0.0.3
 
 
 workflows:
